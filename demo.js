@@ -1,4 +1,8 @@
 function msg(m){
     return m
 }
-console.log(msg("main file"));
+<<<<<<< HEAD
+
+=======
+console.log(msg("feature 2"));
+>>>>>>> feature2
