@@ -1,4 +1,4 @@
 function msg(m){
     return m
 }
-console.log(msg("hello world"));
+console.log(msg("namaste"));
